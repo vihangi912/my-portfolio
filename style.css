@@ -116,3 +116,20 @@
            color:blue;
 
         }
+
+        .h-1{
+            margin-inline-start:2cm ;
+            display:block;
+        }
+        .card-img-top{
+            height: 30px;
+            width:30px ;
+            margin: 0.6cm;
+        }
+        
+        .card{
+            margin: 1cm;
+
+        }
+        
+
