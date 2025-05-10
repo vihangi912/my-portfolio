@@ -1,0 +1,118 @@
+     body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: #beded4;
+            border-radius: 3px;
+            transition: 0.15s;
+        }
+
+        .topnav a {
+            float: left;
+            color: black;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+
+        .topnav a:hover {
+            background-color: rgb(110, 215, 171);
+            color: white;
+        }
+        
+        .image-editing{
+            display: block;
+            image-resolution: 300dpi;
+            margin: 10mm;
+            border-width:"1mm";
+            margin-left: auto;
+            margin-right: auto;
+
+            
+
+
+        }
+        .button-edit{
+            background-color: rgb(6, 119, 100);
+            color: black;
+            border-radius: 5px ;
+            cursor: pointer;
+            border-style: solid;
+            margin-right: 200px;
+            border-width: 2px;
+            font-size: larger;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-inline-end: 60mm;
+            margin-inline-start:20mm;
+            margin-bottom:20mm;
+
+            
+
+        }
+        .button-edit:hover{
+            background-color: red;
+            opacity: 0.9;
+            color: rgb(7, 51, 89);
+
+        }
+        .button-edit:active{
+            background-color: blueviolet;
+            color: black;
+            transition-duration: 0.15s;
+        }
+
+        .footer-edit{
+            box-sizing: border-box;
+      background-color: rgb(118, 203, 216);
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align: center;
+      display: block;
+      border-radius: 8px;
+      font-size: large;
+      color: black;
+      font-style: bold;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        .figure-caption{
+            display: block;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        .img-footer{
+            height: 0.5%;
+            width: 10%;
+            ba
+
+        }
+        .list-group-item{
+            display: ;
+            margin-inline: 10px;
+            word-spacing: 3px;
+            letter-spacing: 1px;
+            line-height: 1cm;
+            list-style: circle;
+            column-gap: 2px;
+            color:red;
+
+
+        }
+        .about-image{
+            display:center;
+            border-radius: 5px;
+            margin:30% ;
+            margin-top: 0%; 
+        }
+
+        .about-letter{
+           display:inline-block; 
+           margin:20%;
+           font-size:larger;
+           color:blue;
+
+        }
